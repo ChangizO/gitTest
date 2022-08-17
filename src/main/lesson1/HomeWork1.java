@@ -6,6 +6,6 @@ public class HomeWork1 {
 
     }
     private static void task1() {
-        System.out.println("Fist task was successfully solved");
+        System.out.println("Fist task was successfully solved!!!!!!!!!!!");
     }
 }
